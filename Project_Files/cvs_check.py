@@ -216,7 +216,7 @@ def get_states():
     """
     This function returns a sorted list of states offered by the CVS website.
     """
-    dictionary = get_dictionary_from_link()
+    dictionary = get_dictionary_from_link(link)
     states = dictionary["responsePayloadData"]["data"].keys()
     return sorted(states)
 

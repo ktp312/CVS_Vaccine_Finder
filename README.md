@@ -34,13 +34,15 @@ In order to lower security, log into the sender email, go to https://www.google.
 
 **State and City Input**<br>
 There are three acceptable formats of input:
-1. Enter one or multiple states and leave the CITIES array empty (i.e. `CITIES = []`)
+1. Enter one or multiple states and leave the CITIES array empty (i.e. `CITIES = []`) for statewide updates.
 2. Enter one state, and list out multiple cities that are all in that one state.
 3. Enter multiple states in multiple cites. In this third case, each city MUST have its matching state listed out in the exact same order.<br>
 For example, if you would like to check only in Hudson New York, Medford Massachusetts, Ocean City Maryland, and Salem Massachusetts, input would be as follows:<br>
 `STATEINI = ['NY', 'MA', 'MD', 'MA', 'TX']`<br>
 `CITIES = ['Hudson', 'Medford', 'Ocean City', 'Salem', 'Bee Cave']`<br>
-Note that you must have MA twice to match with its analagous city, in order. 
+Note that you must have MA twice to match with its analagous city, in order.
+
+The second and third methods will only alert you about availability for the specific cities you enter.
 
 You will eventually see a "STOP" after which you should make no changes to the code in order to ensure functionality.
 

@@ -27,8 +27,8 @@ You will be asked to input a provider (such as gmail, outlook, comcast, etc), an
 `PASSWORD = "yourpassword"`<br>
 `RECEIVER = "example@example.com"`<br>
 
-If using gmail, you will have to lower security on the sender account in order to allow the program to automatically send emails.  We aren't hacking you ... promise.
-In order to lower security, log into the sender email, go to https://www.google.com/settings/security/lesssecureapps and turn the button on as shown below:
+If using gmail, you will have to lower security on the sender account in order to allow the program to automatically send emails.
+In order to lower security, log into the sender email, go to https://www.google.com/settings/security/lesssecureapps and select ON as shown below:
 
 <img src = 'images/secure_apps.png'>
 

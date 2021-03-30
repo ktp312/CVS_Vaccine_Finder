@@ -65,7 +65,7 @@ Type python and hit enter. If you do not have python, it will lauch the Microsof
 Note: Be sure to check the add to PATH option if installing
 
 ### STEP 3
-If you type python and hit enter again, or if you already have python on your machine, the three arrows `>>>` should show up like below:
+If you type `python` and hit enter again, or if you already have python on your machine, the three arrows `>>>` should show up like below:
 
 <img src = 'images/python_installed.png'>
 

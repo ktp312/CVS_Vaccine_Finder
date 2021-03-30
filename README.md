@@ -63,7 +63,7 @@ Open the default terminal (search for terminal) and skip to step 4
 
 
 ### STEP 2
-Type python and hit enter. If you do not have python, it will lauch the Microsoft store and install <br>
+Type python and hit enter. If you do not have python, it will lauch the Microsoft store; install.<br>
 Note: Be sure to check the add to PATH option if installing
 
 ### STEP 3
